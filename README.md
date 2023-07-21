@@ -13,7 +13,7 @@ This is an open source hydraulic brake pedal that can be used on PC and any game
   
 ## Usage
 
-Within a project you will find solidworks, step and stl folder that hold respective format of 3d models. Once you open the files, assembly is straight forward but feel free to contact me or ask anything that seems unclear. This will get updated in future by me or by other contributors.
+Within a project you will find solidworks 3d models if you want to edit something, Also there will be pdf files containing templates that you can print for cuttinh sheet metal. Once you open the files, assembly is straight forward but feel free to contact me or ask anything that seems unclear. This will get updated in future by me or by other contributors.
 
 ## Contributing
 
