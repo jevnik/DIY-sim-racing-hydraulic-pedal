@@ -1,5 +1,7 @@
 # DIY SIM RACING HYDRAULIC BRAKE PEDAL
 
+![Brake pedal](pictures/3.JPG)
+
 ## Description
 
 This is an open source hydraulic brake pedal that can be used on PC and any game. Max braking pressure can be set as much one likes by picking a coresponding pressure transducer. With an 1000psi transducer it measures much more than I can press or that my sim rig can take without flex. Pedal can be assembled completly with only using common and cheap tools that most DIY people will have. No welding required even tho if you have a welder you can make yourself life easier and build the pedal faster. 
